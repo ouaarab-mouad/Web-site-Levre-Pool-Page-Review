@@ -5,7 +5,7 @@
 - **About**  
 - **Gallery**  
 - **Contact Us**  
-- **Login**
+
 
 The website is designed to provide a seamless experience for **pool owners** and **enthusiasts** who want to explore various pool products, learn about maintenance, and get inspired by beautiful pool designs.
 
